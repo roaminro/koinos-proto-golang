@@ -1,4 +1,4 @@
-module github.com/roamin/koinos-proto-golang
+module github.com/roaminroe/koinos-proto-golang
 
 go 1.16
 
